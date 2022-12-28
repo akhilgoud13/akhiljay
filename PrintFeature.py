@@ -13,7 +13,7 @@ for x in b:
     else:
         print(x)
 print(d)
-
+print(c)
 
 
 
