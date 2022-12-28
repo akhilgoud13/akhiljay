@@ -12,6 +12,7 @@ for x in b:
         print("this is", x)
     else:
         print(x)
+print(d)
 
 
 
